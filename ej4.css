@@ -19,7 +19,7 @@ html, body {
 }
 
 .indicadorSide {
-    background-color: orange;
+    background-color: black;
     height: 20%;
 }
 
@@ -69,4 +69,34 @@ html, body {
 .camaraSeccion {
     border-radius: 8px;
     border: solid 2px rgba(255,255,255,0.6);
+}
+.voltaje{
+    margin-bottom: 0px;
+    padding-right: 124px;
+    padding-bottom: 20px;
+}
+.velocidad{
+    margin-bottom: 0px;
+    padding-right: 124px;
+    padding-bottom: 20px;
+}
+.A1{
+    padding-top: 50px;
+    padding-bottom: 10px; 
+    padding-right: 0px!important;
+    padding-left: 40px!important;
+}
+.B1{
+    padding-top: 50px;
+    padding-bottom: 10px;
+    padding-right: 0px!important;
+    padding-left: 0px!important;
+}
+.C1{
+    background-color: #5dc1b9 !important;
+  
+}
+.porcav{
+    font-size: 40px;
+    font-weight: bold;
 }
